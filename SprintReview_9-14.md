@@ -45,12 +45,6 @@
 <li><a href="https://kraken.civicplus.com/app/alex/assets">https://kraken.civicplus.com/app/alex/assets</a></li>
 </ul>
 </li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Add filter for apps and to update categories call to use OData
-<ul>
-<li>Apps and categories now have paging, searching, etc that comes with OData</li>
-<li><a href="https://kraken.civicplus.com/app/alex/settings/categories">https://kraken.civicplus.com/app/alex/settings/categories</a></li>
-</ul>
-</li>
 </ul>
 <h2 id="civicengage-6-items">CivicEngage 6 Items</h2>
 <ul>
