@@ -45,31 +45,10 @@
 <li><a href="https://kraken.civicplus.com/app/alex/assets">https://kraken.civicplus.com/app/alex/assets</a></li>
 </ul>
 </li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Disable fields for authors when needed
-<ul>
-<li>A lot of fields weren’t disabled when they should be for authors</li>
-<li>Couldn’t save anyway, no button, but makes it appear you could</li>
-<li>Had to hide the markdown toolbar, SimpleMDE doesn’t have a dynamic disable capability, but there is a PR someone made for it</li>
-<li><a href="https://kraken.civicplus.com/app/alex/content/article">https://kraken.civicplus.com/app/alex/content/article</a></li>
-</ul>
-</li>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Add filter for apps and to update categories call to use OData
 <ul>
 <li>Apps and categories now have paging, searching, etc that comes with OData</li>
 <li><a href="https://kraken.civicplus.com/app/alex/settings/categories">https://kraken.civicplus.com/app/alex/settings/categories</a></li>
-</ul>
-</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Bulk Assign Categories to Items
-<ul>
-<li>From assets, implemented the same for content</li>
-<li><a href="https://kraken.civicplus.com/app/alex/content/article">https://kraken.civicplus.com/app/alex/content/article</a></li>
-</ul>
-</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Limit Guests to Read Only End Points
-<ul>
-<li>Matt to discuss a lot of what was done</li>
-<li>Restricted methods with side effects to authorized CivicEngage users</li>
-<li>Implemented IdentityServer token</li>
 </ul>
 </li>
 </ul>
